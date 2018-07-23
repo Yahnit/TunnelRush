@@ -1,6 +1,3 @@
-## Rollnumber - 20161033
-## Name - Yahnit Sirineni
-
 ## Tunnel Rush
 
 ### Statistics
